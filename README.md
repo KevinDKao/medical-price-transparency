@@ -35,12 +35,6 @@ git clone https://github.com/yourusername/medical-price-transparency.git
 
 # Install dependencies
 pip install -r requirements.txt
-
-# Run data collection
-python src/scraper.py
-
-# Generate analysis
-python src/analyze.py
 ```
 
 ## Analysis Examples 📈
