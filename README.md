@@ -56,7 +56,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact 📧
 
 - GitHub Issues: Create an issue in this repository
-- Email: your.email@example.com
 
 ## Acknowledgments 🙏
 
